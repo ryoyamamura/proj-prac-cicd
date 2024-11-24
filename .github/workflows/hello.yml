@@ -1,9 +1,12 @@
 name: Hello # 名前
-on: push # 起動イベント
+on: workflow_dispatch # 起動イベント
 jobs: # ジョブの定義
   hello: # ジョブID
     runs-on: ubuntu-latest # Actions の実行環境
     steps: # ステップの定義
       - run: echo "Hello World" # シェルコマンドの実行
       - uses: actions/checkout@v4 # 準備されているアクションの使用
-      - run: python main.py
+      - run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+          python main.py
