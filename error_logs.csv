@@ -1,0 +1,301 @@
+sensor_id,error_log,timestamp
+sensor-612,Data corruption,2024-10-18 15:43:03.464042
+sensor-634,Connection lost,2024-10-17 20:17:03.464236
+sensor-355,Pressure anomaly,2024-10-19 19:04:03.464275
+sensor-791,Power supply failure,2024-10-22 16:27:03.464318
+sensor-656,Sensor malfunction,2024-10-21 15:57:03.464344
+sensor-793,Sensor malfunction,2024-10-22 06:56:03.464368
+sensor-546,Connection lost,2024-10-22 22:22:03.464402
+sensor-472,Pressure anomaly,2024-10-16 14:28:03.464430
+sensor-743,Calibration needed,2024-10-17 08:21:03.464461
+sensor-757,Data corruption,2024-10-20 23:08:03.464495
+sensor-734,High humidity warning,2024-10-19 08:09:03.464541
+sensor-643,Sensor malfunction,2024-10-20 00:43:03.464576
+sensor-388,High humidity warning,2024-10-18 07:44:03.464601
+sensor-725,Data corruption,2024-10-16 09:09:03.464622
+sensor-664,Sensor malfunction,2024-10-17 22:26:03.464643
+sensor-135,Power supply failure,2024-10-20 21:52:03.464665
+sensor-036,Pressure anomaly,2024-10-17 13:00:03.464685
+sensor-207,Pressure anomaly,2024-10-17 21:19:03.464707
+sensor-234,Data corruption,2024-10-16 12:07:03.464727
+sensor-141,Connection lost,2024-10-21 19:56:03.464748
+sensor-835,Overheating detected,2024-10-20 03:29:03.464769
+sensor-960,Sensor malfunction,2024-10-19 19:06:03.464795
+sensor-290,Low battery,2024-10-22 12:28:03.464823
+sensor-675,Overheating detected,2024-10-16 18:04:03.464844
+sensor-548,Data corruption,2024-10-17 05:47:03.464864
+sensor-598,Sensor malfunction,2024-10-17 11:41:03.464899
+sensor-972,Connection lost,2024-10-17 10:02:03.464936
+sensor-819,Overheating detected,2024-10-22 21:39:03.464971
+sensor-476,Overheating detected,2024-10-19 05:21:03.465007
+sensor-776,High humidity warning,2024-10-21 18:22:03.465043
+sensor-895,Data corruption,2024-10-17 09:01:03.465078
+sensor-540,Overheating detected,2024-10-22 19:59:03.465113
+sensor-914,Low battery,2024-10-17 13:04:03.465150
+sensor-757,High humidity warning,2024-10-16 17:52:03.465187
+sensor-705,Power supply failure,2024-10-17 11:46:03.465223
+sensor-036,Pressure anomaly,2024-10-21 18:04:03.465258
+sensor-939,Sensor malfunction,2024-10-23 03:23:03.465292
+sensor-145,Sensor malfunction,2024-10-18 06:22:03.465329
+sensor-821,Low battery,2024-10-19 23:34:03.465364
+sensor-417,High humidity warning,2024-10-18 10:12:03.465401
+sensor-644,Low battery,2024-10-19 01:07:03.465437
+sensor-585,Low battery,2024-10-18 12:56:03.465475
+sensor-082,Data corruption,2024-10-21 06:01:03.465512
+sensor-378,Calibration needed,2024-10-17 01:24:03.465549
+sensor-139,Data corruption,2024-10-17 01:16:03.465884
+sensor-062,Low battery,2024-10-21 00:51:03.466011
+sensor-254,Data corruption,2024-10-17 11:02:03.466060
+sensor-179,Pressure anomaly,2024-10-16 19:35:03.466090
+sensor-629,Connection lost,2024-10-19 07:16:03.466125
+sensor-234,Pressure anomaly,2024-10-20 20:37:03.466154
+sensor-958,Overheating detected,2024-10-18 21:56:03.466190
+sensor-453,Sensor malfunction,2024-10-22 16:13:03.466212
+sensor-329,High humidity warning,2024-10-22 16:00:03.466234
+sensor-900,High humidity warning,2024-10-20 16:48:03.466255
+sensor-624,Sensor malfunction,2024-10-19 11:17:03.466286
+sensor-052,Calibration needed,2024-10-19 10:20:03.466307
+sensor-839,High humidity warning,2024-10-22 16:53:03.466328
+sensor-102,Pressure anomaly,2024-10-20 12:01:03.466354
+sensor-518,Calibration needed,2024-10-16 11:41:03.466376
+sensor-640,High humidity warning,2024-10-18 00:00:03.466407
+sensor-676,Connection lost,2024-10-18 21:53:03.466428
+sensor-185,Calibration needed,2024-10-17 00:01:03.466448
+sensor-002,Data corruption,2024-10-16 18:13:03.466661
+sensor-653,Low battery,2024-10-21 14:10:03.466719
+sensor-218,Power supply failure,2024-10-21 10:58:03.466743
+sensor-737,Pressure anomaly,2024-10-21 21:29:03.466768
+sensor-703,Overheating detected,2024-10-18 02:24:03.466790
+sensor-744,Power supply failure,2024-10-16 23:01:03.466811
+sensor-965,Power supply failure,2024-10-16 12:37:03.466832
+sensor-403,Calibration needed,2024-10-20 11:55:03.466852
+sensor-734,Calibration needed,2024-10-17 06:46:03.466873
+sensor-353,Overheating detected,2024-10-17 16:00:03.466914
+sensor-095,Low battery,2024-10-20 03:05:03.466938
+sensor-771,High humidity warning,2024-10-22 10:09:03.466967
+sensor-326,Power supply failure,2024-10-18 11:58:03.467001
+sensor-941,Data corruption,2024-10-22 00:42:03.467025
+sensor-310,Sensor malfunction,2024-10-21 11:30:03.467046
+sensor-294,High humidity warning,2024-10-16 13:28:03.467090
+sensor-980,Calibration needed,2024-10-17 10:22:03.467121
+sensor-703,High humidity warning,2024-10-18 00:38:03.467152
+sensor-826,Power supply failure,2024-10-20 12:19:03.467175
+sensor-247,Connection lost,2024-10-16 23:18:03.467210
+sensor-325,Sensor malfunction,2024-10-19 04:22:03.467239
+sensor-695,Power supply failure,2024-10-22 05:42:03.467261
+sensor-668,Sensor malfunction,2024-10-21 12:18:03.467284
+sensor-602,Sensor malfunction,2024-10-18 20:02:03.467305
+sensor-184,Low battery,2024-10-19 21:10:03.467326
+sensor-483,Overheating detected,2024-10-17 15:55:03.467347
+sensor-040,Sensor malfunction,2024-10-22 04:15:03.467369
+sensor-704,Overheating detected,2024-10-21 16:28:03.467390
+sensor-212,Calibration needed,2024-10-22 14:43:03.467412
+sensor-050,Sensor malfunction,2024-10-17 10:55:03.467432
+sensor-540,Sensor malfunction,2024-10-19 08:00:03.467453
+sensor-790,Power supply failure,2024-10-21 00:38:03.467474
+sensor-127,Pressure anomaly,2024-10-19 07:03:03.467494
+sensor-268,Low battery,2024-10-18 11:07:03.467515
+sensor-165,Low battery,2024-10-18 14:34:03.467535
+sensor-416,Data corruption,2024-10-22 09:35:03.467557
+sensor-342,Low battery,2024-10-16 19:35:03.467578
+sensor-198,Data corruption,2024-10-18 11:12:03.467598
+sensor-275,Overheating detected,2024-10-18 06:51:03.467619
+sensor-774,Pressure anomaly,2024-10-22 17:13:03.467646
+sensor-218,Data corruption,2024-10-21 02:29:03.467679
+sensor-204,Overheating detected,2024-10-20 17:03:03.467711
+sensor-595,Calibration needed,2024-10-19 20:04:03.467734
+sensor-705,Overheating detected,2024-10-20 13:38:03.467757
+sensor-707,Low battery,2024-10-20 10:13:03.467778
+sensor-913,Overheating detected,2024-10-22 00:35:03.467799
+sensor-031,Low battery,2024-10-21 22:32:03.467819
+sensor-569,Data corruption,2024-10-21 15:36:03.467840
+sensor-893,Calibration needed,2024-10-17 00:58:03.467871
+sensor-295,Pressure anomaly,2024-10-20 09:26:03.467894
+sensor-394,Overheating detected,2024-10-20 05:36:03.467915
+sensor-372,Overheating detected,2024-10-17 06:54:03.467935
+sensor-407,High humidity warning,2024-10-20 23:11:03.467962
+sensor-690,Low battery,2024-10-19 10:53:03.467990
+sensor-622,High humidity warning,2024-10-18 15:09:03.468021
+sensor-787,Data corruption,2024-10-19 03:03:03.468043
+sensor-977,Sensor malfunction,2024-10-19 08:58:03.468065
+sensor-212,Overheating detected,2024-10-21 04:30:03.468098
+sensor-400,High humidity warning,2024-10-19 23:27:03.468134
+sensor-382,Data corruption,2024-10-16 17:44:03.468168
+sensor-231,High humidity warning,2024-10-22 20:13:03.468205
+sensor-491,Sensor malfunction,2024-10-19 20:58:03.468237
+sensor-931,Connection lost,2024-10-21 01:59:03.468260
+sensor-919,High humidity warning,2024-10-18 18:09:03.468293
+sensor-092,Sensor malfunction,2024-10-18 12:56:03.468322
+sensor-344,Connection lost,2024-10-18 17:12:03.468343
+sensor-502,Sensor malfunction,2024-10-18 09:37:03.468365
+sensor-939,Sensor malfunction,2024-10-19 11:19:03.468387
+sensor-590,Power supply failure,2024-10-18 00:48:03.468407
+sensor-241,Sensor malfunction,2024-10-20 13:06:03.468429
+sensor-361,Calibration needed,2024-10-16 21:23:03.468449
+sensor-980,Data corruption,2024-10-22 02:57:03.468469
+sensor-930,Data corruption,2024-10-17 16:39:03.468489
+sensor-373,Data corruption,2024-10-19 11:24:03.468511
+sensor-537,Pressure anomaly,2024-10-22 16:43:03.468534
+sensor-866,Pressure anomaly,2024-10-18 12:23:03.468555
+sensor-977,High humidity warning,2024-10-22 04:18:03.468575
+sensor-316,Calibration needed,2024-10-22 22:50:03.468596
+sensor-277,Power supply failure,2024-10-22 06:35:03.468617
+sensor-831,High humidity warning,2024-10-17 23:50:03.468638
+sensor-639,Sensor malfunction,2024-10-20 01:58:03.468665
+sensor-628,Pressure anomaly,2024-10-21 21:38:03.468698
+sensor-914,Overheating detected,2024-10-21 08:52:03.468729
+sensor-112,Pressure anomaly,2024-10-21 08:52:03.468761
+sensor-162,Calibration needed,2024-10-22 15:24:03.468794
+sensor-506,Overheating detected,2024-10-21 15:18:03.468818
+sensor-818,Connection lost,2024-10-17 10:02:03.468839
+sensor-689,Overheating detected,2024-10-18 20:15:03.468862
+sensor-335,Connection lost,2024-10-19 15:38:03.468883
+sensor-827,Calibration needed,2024-10-22 15:02:03.468904
+sensor-260,Data corruption,2024-10-16 07:29:03.468935
+sensor-749,Pressure anomaly,2024-10-18 13:30:03.468958
+sensor-627,Calibration needed,2024-10-21 02:42:03.468979
+sensor-030,Calibration needed,2024-10-22 23:56:03.469003
+sensor-385,Data corruption,2024-10-18 02:31:03.469289
+sensor-164,Low battery,2024-10-17 08:08:03.469350
+sensor-756,Connection lost,2024-10-18 18:39:03.469387
+sensor-492,Overheating detected,2024-10-23 06:00:03.469411
+sensor-572,High humidity warning,2024-10-16 10:31:03.469433
+sensor-248,Pressure anomaly,2024-10-18 13:08:03.469454
+sensor-879,Calibration needed,2024-10-22 01:01:03.469480
+sensor-297,Power supply failure,2024-10-22 16:19:03.469502
+sensor-785,High humidity warning,2024-10-20 00:40:03.469525
+sensor-958,Power supply failure,2024-10-18 19:30:03.469545
+sensor-685,Data corruption,2024-10-18 00:20:03.469566
+sensor-981,Power supply failure,2024-10-19 22:09:03.469588
+sensor-756,Sensor malfunction,2024-10-22 22:08:03.469614
+sensor-789,High humidity warning,2024-10-20 20:53:03.469646
+sensor-984,Overheating detected,2024-10-19 08:40:03.469677
+sensor-129,Low battery,2024-10-18 20:06:03.469704
+sensor-568,Pressure anomaly,2024-10-17 01:22:03.469735
+sensor-010,Calibration needed,2024-10-22 10:10:03.469762
+sensor-855,Overheating detected,2024-10-19 11:01:03.469797
+sensor-312,Data corruption,2024-10-16 08:48:03.469818
+sensor-416,Pressure anomaly,2024-10-23 00:15:03.469839
+sensor-768,Overheating detected,2024-10-20 19:44:03.469865
+sensor-181,Overheating detected,2024-10-18 18:51:03.469898
+sensor-235,Sensor malfunction,2024-10-18 12:38:03.469930
+sensor-779,Low battery,2024-10-21 03:16:03.469965
+sensor-512,Data corruption,2024-10-21 02:05:03.469994
+sensor-355,Connection lost,2024-10-22 04:38:03.470027
+sensor-555,Overheating detected,2024-10-21 16:55:03.470054
+sensor-922,Low battery,2024-10-20 05:33:03.470075
+sensor-601,Low battery,2024-10-16 11:37:03.470095
+sensor-233,Power supply failure,2024-10-18 02:04:03.470121
+sensor-772,Power supply failure,2024-10-19 03:08:03.470148
+sensor-072,Overheating detected,2024-10-21 11:22:03.470178
+sensor-666,Overheating detected,2024-10-20 18:04:03.470201
+sensor-801,Pressure anomaly,2024-10-17 23:27:03.470223
+sensor-063,Low battery,2024-10-16 15:23:03.470244
+sensor-918,High humidity warning,2024-10-16 07:33:03.470265
+sensor-501,Sensor malfunction,2024-10-19 11:06:03.470293
+sensor-610,Pressure anomaly,2024-10-17 00:55:03.470318
+sensor-747,Sensor malfunction,2024-10-19 16:18:03.470339
+sensor-643,Sensor malfunction,2024-10-19 12:14:03.470368
+sensor-708,High humidity warning,2024-10-23 01:27:03.470397
+sensor-647,Connection lost,2024-10-19 01:35:03.470419
+sensor-698,Pressure anomaly,2024-10-17 01:27:03.470454
+sensor-332,Low battery,2024-10-21 09:31:03.470510
+sensor-066,Low battery,2024-10-20 09:21:03.470582
+sensor-619,Low battery,2024-10-22 07:45:03.470646
+sensor-413,Sensor malfunction,2024-10-18 17:01:03.470682
+sensor-495,Overheating detected,2024-10-17 12:23:03.470726
+sensor-185,Calibration needed,2024-10-18 19:28:03.470759
+sensor-903,Overheating detected,2024-10-16 12:19:03.470792
+sensor-818,Data corruption,2024-10-16 13:37:03.470822
+sensor-750,Data corruption,2024-10-16 21:24:03.470855
+sensor-996,Calibration needed,2024-10-21 16:57:03.470887
+sensor-612,Calibration needed,2024-10-21 05:36:03.470952
+sensor-492,Connection lost,2024-10-21 00:00:03.470996
+sensor-844,Sensor malfunction,2024-10-20 18:14:03.471036
+sensor-954,Overheating detected,2024-10-20 21:24:03.471559
+sensor-178,Power supply failure,2024-10-17 15:33:03.471638
+sensor-535,Connection lost,2024-10-22 01:48:03.471717
+sensor-498,Connection lost,2024-10-21 19:34:03.471756
+sensor-804,Low battery,2024-10-16 08:17:03.471781
+sensor-889,High humidity warning,2024-10-20 21:29:03.471803
+sensor-161,Data corruption,2024-10-19 19:02:03.471836
+sensor-427,Connection lost,2024-10-18 16:59:03.471864
+sensor-043,Connection lost,2024-10-18 04:21:03.471893
+sensor-527,Pressure anomaly,2024-10-20 04:21:03.471914
+sensor-881,Power supply failure,2024-10-20 02:16:03.471935
+sensor-342,Overheating detected,2024-10-19 15:39:03.471955
+sensor-412,Data corruption,2024-10-22 20:01:03.471975
+sensor-468,Overheating detected,2024-10-21 07:34:03.472006
+sensor-901,Sensor malfunction,2024-10-23 04:45:03.472037
+sensor-358,High humidity warning,2024-10-22 14:31:03.472058
+sensor-267,Power supply failure,2024-10-16 08:03:03.472079
+sensor-834,Pressure anomaly,2024-10-19 11:22:03.472109
+sensor-488,Pressure anomaly,2024-10-16 07:48:03.472132
+sensor-916,Sensor malfunction,2024-10-19 05:39:03.472181
+sensor-908,Pressure anomaly,2024-10-19 08:33:03.472221
+sensor-029,Calibration needed,2024-10-17 14:07:03.472275
+sensor-160,Power supply failure,2024-10-17 00:11:03.472316
+sensor-619,Overheating detected,2024-10-22 12:04:03.472350
+sensor-250,Calibration needed,2024-10-20 04:03:03.472384
+sensor-201,High humidity warning,2024-10-17 12:37:03.472421
+sensor-657,Data corruption,2024-10-18 15:23:03.472457
+sensor-533,Calibration needed,2024-10-17 10:47:03.472494
+sensor-906,High humidity warning,2024-10-18 16:44:03.472526
+sensor-378,Connection lost,2024-10-22 10:20:03.472551
+sensor-106,Sensor malfunction,2024-10-22 20:20:03.472572
+sensor-090,Low battery,2024-10-21 07:17:03.472595
+sensor-822,Pressure anomaly,2024-10-21 21:27:03.472615
+sensor-322,High humidity warning,2024-10-20 11:07:03.472635
+sensor-787,Calibration needed,2024-10-21 19:47:03.472656
+sensor-417,Connection lost,2024-10-20 00:48:03.472677
+sensor-280,Connection lost,2024-10-18 07:04:03.472698
+sensor-493,Pressure anomaly,2024-10-23 01:17:03.472719
+sensor-707,Overheating detected,2024-10-22 04:25:03.472742
+sensor-927,Overheating detected,2024-10-19 04:12:03.472773
+sensor-525,Data corruption,2024-10-18 23:05:03.472803
+sensor-735,Power supply failure,2024-10-19 23:56:03.472826
+sensor-337,Sensor malfunction,2024-10-22 09:28:03.472849
+sensor-984,Calibration needed,2024-10-20 00:28:03.472869
+sensor-143,Data corruption,2024-10-19 05:33:03.472890
+sensor-791,High humidity warning,2024-10-22 20:00:03.472911
+sensor-468,Sensor malfunction,2024-10-23 01:49:03.472933
+sensor-348,Pressure anomaly,2024-10-16 16:36:03.472954
+sensor-968,Sensor malfunction,2024-10-18 08:53:03.472974
+sensor-432,Sensor malfunction,2024-10-20 21:15:03.473008
+sensor-144,Connection lost,2024-10-22 02:14:03.473029
+sensor-761,Power supply failure,2024-10-21 05:51:03.473049
+sensor-826,Overheating detected,2024-10-19 02:25:03.473076
+sensor-633,Sensor malfunction,2024-10-21 14:08:03.473106
+sensor-724,Sensor malfunction,2024-10-18 05:17:03.473136
+sensor-597,High humidity warning,2024-10-21 09:22:03.473157
+sensor-496,Data corruption,2024-10-19 17:29:03.473188
+sensor-452,Power supply failure,2024-10-17 10:39:03.473217
+sensor-627,Pressure anomaly,2024-10-22 00:32:03.473250
+sensor-700,Low battery,2024-10-20 16:23:03.473281
+sensor-062,Overheating detected,2024-10-20 18:02:03.473311
+sensor-229,Pressure anomaly,2024-10-17 07:10:03.473334
+sensor-869,Calibration needed,2024-10-16 11:43:03.473355
+sensor-042,Calibration needed,2024-10-16 11:43:03.473376
+sensor-469,Power supply failure,2024-10-16 19:27:03.473397
+sensor-549,Calibration needed,2024-10-16 17:47:03.473418
+sensor-660,Data corruption,2024-10-20 13:44:03.473457
+sensor-902,Sensor malfunction,2024-10-21 21:10:03.473484
+sensor-475,Power supply failure,2024-10-22 04:50:03.473505
+sensor-788,Connection lost,2024-10-20 13:30:03.473525
+sensor-589,Overheating detected,2024-10-21 19:31:03.473548
+sensor-521,Low battery,2024-10-17 02:40:03.473577
+sensor-187,Low battery,2024-10-18 04:32:03.473602
+sensor-829,Low battery,2024-10-21 10:06:03.473624
+sensor-913,Sensor malfunction,2024-10-20 18:48:03.473646
+sensor-047,High humidity warning,2024-10-21 03:51:03.473699
+sensor-497,Low battery,2024-10-21 13:05:03.473725
+sensor-442,High humidity warning,2024-10-16 23:41:03.473753
+sensor-574,High humidity warning,2024-10-19 14:45:03.473774
+sensor-245,High humidity warning,2024-10-20 09:26:03.473794
+sensor-582,High humidity warning,2024-10-19 11:36:03.473825
+sensor-728,Calibration needed,2024-10-22 19:39:03.473848
+sensor-164,Power supply failure,2024-10-19 22:38:03.473869
+sensor-894,Calibration needed,2024-10-23 02:48:03.473891
+sensor-835,Overheating detected,2024-10-17 14:54:03.473920
+sensor-523,Overheating detected,2024-10-22 13:39:03.473941
+sensor-253,Connection lost,2024-10-21 10:26:03.473962
