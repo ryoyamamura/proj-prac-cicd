@@ -3,7 +3,7 @@ name: test-schedule
 on:
   schedule:
     # 定期実行する時間
-    - cron: '43 13 * * *'
+    - cron: '50 22 * * *'
 
 jobs:
   sample-job:
